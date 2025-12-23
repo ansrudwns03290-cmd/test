@@ -3,4 +3,5 @@
 int main(void)
 {
     printf("Hello");
+    printf("Test");
 }
